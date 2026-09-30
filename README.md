@@ -1,11 +1,8 @@
-## Hi there 👋
-
-<!--
-**eshwar320/Eshwar320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’
+Legal Ease – AI
+TNSDC/BCA project prototype.
+Run
+Install Python 3.10+
+pip install flask
+python app.py
+Open http://127.0.0.1:5000
+The included prototype is educational. For a production generative-AI system, connect an approved LLM API and verified legal sources, with citations and privacy controls.
